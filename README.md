@@ -5,9 +5,9 @@ To generate the recommendation page, I used collaborative filtering using users 
 
 Data set used: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
-![image](https://github.com/asharma-02/Book_Recommedation/assets/79147161/8c5c548c-fc67-4f5b-9806-79441d419a11)
+![image](https://github.com/asharma-02/Book_Recommedation/assets/79147161/a19f3eba-193a-4f1f-8430-9a32537524ad)
 
-![image](https://github.com/asharma-02/Book_Recommedation/assets/79147161/f9d1c208-96bd-402e-854f-dc429ac81381)
 
+![image](https://github.com/asharma-02/Book_Recommedation/assets/79147161/3b2a0d69-bb4c-41f2-a13e-26022667f5fb)
 
 
